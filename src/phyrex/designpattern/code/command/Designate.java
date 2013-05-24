@@ -5,6 +5,9 @@ import java.util.List;
 
 public class Designate {
 
+	/**
+	 * 指派清單
+	 */ 
 	public static List<Command> list(){
         
         List<Command> queue = new ArrayList<Command>();
