@@ -19,18 +19,5 @@ public class Factory {
 		
 		System.out.println("result : " + operate.getResult());
 	}
-	
-	/*
-	public static void main(String[] arg){
-		
-		FactoryImpl factory = new AddFactory();
-		
-		Operate operate = factory.createOperation();
-		
-		operate.setNumberA(5.5);
-		operate.setNumberB(7.2);
-		
-		System.out.println("result : " + operate.getResult());
-	}
-	*/
+
 }

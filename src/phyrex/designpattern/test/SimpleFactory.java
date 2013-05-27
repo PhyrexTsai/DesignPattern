@@ -11,7 +11,7 @@ public class SimpleFactory {
 	
 	public Operate createOperate(String operator){
 		
-		// ³z¹L³oÃä¿ï¾Ü Factory
+		// é¸æ“‡ Factory
 		if(operator.equals("+")){
 			operate = new OperateAdd();
 		}else if(operator.equals("-")){

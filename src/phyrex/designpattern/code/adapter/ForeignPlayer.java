@@ -13,11 +13,11 @@ public class ForeignPlayer {
 	}
 	
 	public void attack_zh_tw(){
-		System.out.println(name + ":§ðÀ»!");
+		System.out.println(name + ":é€²æ”»!");
 	}
 	
 	public void defence_zh_tw(){
-		System.out.println(name + ":¨¾¿m!");
+		System.out.println(name + ":é˜²å®ˆ!");
 	}
 	
 }
