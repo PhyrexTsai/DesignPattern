@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ClassDiagram>
-    <Class name="phyrex.designpattern.code.adapter.Translator" x="541" y="66">
+    <Class name="phyrex.designpattern.code.adapter.Translator" x="594" y="65">
         <AttributesDisplayFilter public-accepted="true"
             private-accepted="true" protected-accepted="true"
             default-accepted="true" static-accepted="false"/>
@@ -25,7 +25,7 @@
         <Extension destinationClassName="phyrex.designpattern.code.adapter.Player"/>
     </Class>
     <Class name="phyrex.designpattern.code.adapter.ForeignPlayer"
-        x="590" y="282">
+        x="572" y="311">
         <AttributesDisplayFilter public-accepted="true"
             private-accepted="true" protected-accepted="true"
             default-accepted="true" static-accepted="false"/>
